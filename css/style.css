@@ -1,0 +1,12 @@
+.tituloPrincipal{
+    color: blue;
+}
+
+table{
+    border: 1px solid rgb(2, 101, 155);
+}
+
+td{
+    border: 1px solid rgba(12, 64, 116, 0.51);
+    padding: 5px;
+}
